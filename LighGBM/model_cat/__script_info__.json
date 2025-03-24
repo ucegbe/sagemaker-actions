@@ -1,0 +1,8 @@
+{
+    "FileName": "__script_info__.json",
+    "Framework": "lightgbm",
+    "ModelId": "none",
+    "Scope": "train",
+    "Task": "classification",
+    "Version": "2.2.0"
+}
